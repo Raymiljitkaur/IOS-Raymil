@@ -1,17 +1,17 @@
 { "tickets":[
 	{
 	"Name": "Lower",
-	"Price": 4000,
+	"Total": 4000,
 	"Quantity": 10
 	},
 	{
 	"Name": "balcomy",
-	"Price": 2000,
+	"Total": 2000,
 	"Quantity": 20
 	},
 	{
 	"Name": "courtside",
-	"Price": 3000,
+	"Total": 3000,
 	"Quantity": 15
 	}
 	     
