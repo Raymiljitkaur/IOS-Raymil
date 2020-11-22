@@ -1,16 +1,16 @@
 { "tickets":[
 	{
-	"Name": "Lower",
+	"name": "Lower",
 	"Total": 4000,
 	"Quantity": 10
 	},
 	{
-	"Name": "balcomy",
+	"name": "balcomy",
 	"Total": 2000,
 	"Quantity": 20
 	},
 	{
-	"Name": "courtside",
+	"name": "courtside",
 	"Total": 3000,
 	"Quantity": 15
 	}
